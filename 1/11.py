@@ -1,4 +1,3 @@
-a = 2
-print (a)
-b = a * a
-print (b)
+new_var = 2
+new_z = new_var * new_var
+print (new_z) 
